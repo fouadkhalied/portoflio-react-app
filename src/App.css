@@ -640,7 +640,7 @@ circle
 
 /* /////////////////////////////////////////////////////////////////////////////////////////////// */
 
-@media screen and (max-width:314px) {
+@media screen and (max-width:576px) {
      .parent1
      {
       height: 80vh;
