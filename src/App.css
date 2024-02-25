@@ -703,7 +703,7 @@ circle
     }
     .butt h4
     {
-      transform: translateY(0%);
+      transform: translateY(50%);
     }
     .alo2
     {
@@ -738,11 +738,11 @@ circle
     }
     .auto789
     {
-      margin-left: 20px;
+      margin-left: 50px;
     }
     .svg-ele
     {
-      left: 20px;
+      margin-left: 40px;
     }
     /* //////////////////////////////////// */
     .navbar2
